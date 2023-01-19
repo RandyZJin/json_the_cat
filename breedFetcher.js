@@ -24,6 +24,7 @@ const fetchBreed = (query) => {
 fetchBreed(process.argv[2]);
 
 
+module.exports = fetchBreed;
 
 
 
